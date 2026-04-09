@@ -1,0 +1,22 @@
+{
+    "valid_login": {
+      "email": "eve.holt@reqres.in",
+      "password": "cityslicka"
+    },
+    "valid_register": {
+      "email": "eve.holt@reqres.in",
+      "password": "pistol"
+    },
+    "valid_product": {
+      "name": "Produto Teste QA",
+      "price": 49.90,
+      "category": "QA Tools",
+      "in_stock": true
+    },
+    "updated_product": {
+      "name": "Produto Atualizado",
+      "price": 59.90,
+      "category": "QA Tools",
+      "in_stock": false
+    }
+  }
