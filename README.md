@@ -2,8 +2,6 @@
 
 Suíte de testes automatizados para a API [ReqRes](https://reqres.in/), desenvolvida com **pytest** e **requests** como parte da disciplina de Qualidade de Software — INATEL.
 
-> ⚠️ **Uso de IA declarado:** Partes deste projeto foram desenvolvidas com auxílio do Claude (Anthropic). Todo o código foi revisado, compreendido e adaptado pelo grupo.
-
 ---
 
 ## Tecnologias
